@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brandp/static/css/main.48ce9627.css",
+    "main.js": "/brandp/static/js/main.967dbd77.js",
+    "static/media/build.jpg": "/brandp/static/media/build.7088c72072a04703ab12.jpg",
+    "static/media/Vector2.png": "/brandp/static/media/Vector2.0e915a467f88afa9fcc1.png",
+    "index.html": "/brandp/index.html",
+    "main.48ce9627.css.map": "/brandp/static/css/main.48ce9627.css.map",
+    "main.967dbd77.js.map": "/brandp/static/js/main.967dbd77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48ce9627.css",
+    "static/js/main.967dbd77.js"
+  ]
+}
